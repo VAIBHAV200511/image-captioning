@@ -39,7 +39,3 @@ The goal of this project is to generate a caption for an image using a combinati
 - Users can upload images, and the system will generate and display captions.
 - The application provides an easy interface for generating captions without requiring technical knowledge.
 
-## Training the Model
-To train the model, you can run the following code:
-```bash
-python train_model.py
