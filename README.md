@@ -5,12 +5,8 @@
 This project aims to develop an Image Captioning system using Convolutional Neural Networks (CNN) for image feature extraction and Long Short-Term Memory (LSTM) networks for caption generation. The system is designed to generate natural language descriptions of images, which can be useful in various applications such as assisting visually impaired individuals, automating social media content, and indexing large image databases.
 
 ## Team Members
-- **[Name 1]** - Project Lead
-- **[Name 2]** - Model Developer
-- **[Name 3]** - Streamlit GUI Developer
-- **[Name 4]** - Documentation Specialist
-- **Instructor/Guide**: [Instructor Name]
-
+- **Vaibhav Idupuluri** 
+  
 ## Technologies Used
 - **Deep Learning**: TensorFlow, Keras
 - **Pretrained Model**: DenseNet201 for image feature extraction
